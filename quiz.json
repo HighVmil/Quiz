@@ -1,0 +1,36 @@
+[
+    {
+        "question": "Jak wyświetlamy kominikaty w Pythonie?",
+        "answers": [
+            {
+                "text": "put",
+                "correct": false
+            },
+            {
+                "text": "write",
+                "correct": false
+            },
+            {
+                "text": "print",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Gdzie najlepiej uczyć się Pythona?",
+        "answers": [
+            {
+                "text": "dokodu.it",
+                "correct": true
+            },
+            {
+                "text": "kanał Kacper Sieradziński",
+                "correct": true
+            },
+            {
+                "text": "Pystart",
+                "correct": true
+            }
+        ]
+    }
+]
